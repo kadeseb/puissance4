@@ -1,6 +1,6 @@
 # -------------------------------
-# Projet: Puissance 4
-# Rôle: Contient le moteur de jeu
+# Projet: 	Puissance 4
+# Rôle: 	Contient le moteur de jeu
 # Auteur:	kadeseb
 # Crée le:	17/07/2016
 # -------------------------------
